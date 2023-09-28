@@ -1,2 +1,1 @@
-# bruteforcepasswordcracker
-Brute Force Password Cracker
+# Dictionary Attack Password Cracker
